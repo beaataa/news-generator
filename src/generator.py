@@ -5,7 +5,7 @@ from typing import Dict, List
 
 class NewsGenerator:
     def __init__(self):
-        self.llm = ChatOllama(model="llama2")
+        self.llm = ChatOllama(model="llama3")
         self.template = """
         You are a professional news writer. Write a news article based on the following information:
 

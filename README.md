@@ -27,7 +27,7 @@ ollama pull llama3
 2. Python 3.8 or higher
 3. A NewsAPI key (get one at [https://newsapi.org](https://newsapi.org))
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -69,7 +69,7 @@ news-generator/
     └── validator.py    # Content validation
 ```
 
-## 🚀 Usage
+## Usage
 
 1. Terminal execution:
 -   To run the CLI-based news generator:

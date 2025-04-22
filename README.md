@@ -1,6 +1,6 @@
 # news-generator
 
-# 📰 AI News Article Generator
+# AI News Article Generator
 
 An AI-powered application that automatically generates news articles based on user-selected topics. The app fetches real-time news data and uses AI to create comprehensive, well-structured articles.
 
@@ -121,7 +121,4 @@ streamlit run news_app.py
 
 ## Important Notes
 
-- Keep your NewsAPI key confidential
 - The free tier of NewsAPI has usage limits
-- Generated articles should be reviewed for accuracy
-- AI-generated content may require fact-checking

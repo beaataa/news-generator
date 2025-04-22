@@ -1,5 +1,3 @@
-# news-generator
-
 # AI News Article Generator
 
 An AI-powered application that automatically generates news articles based on user-selected topics. The app fetches real-time news data and uses AI to create comprehensive, well-structured articles.
